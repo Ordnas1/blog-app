@@ -1,24 +1,11 @@
-# README
+# Blog App en Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Una sencilla aplicación hecha en Ruby on Rails
 
-Things you may want to cover:
+## Conceptos utilizados
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby
+* Ruby on Rails
+* MVC
+* Templates
+* Active Record
